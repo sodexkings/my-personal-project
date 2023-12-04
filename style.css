@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.line{
+    width: 90px;
+    height: 5px;
+    background-color:black;
+    margin: 8px auto;
+}
+h1{
+    font-size: 35px;
+    font-family: cursive;
+
+}
